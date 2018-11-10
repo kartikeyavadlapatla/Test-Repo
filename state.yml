@@ -1,0 +1,3 @@
+---
+iaas: aws
+vm_id: ops-manager-vm
